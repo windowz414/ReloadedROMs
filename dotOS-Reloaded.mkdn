@@ -1,0 +1,44 @@
+<div align="center">
+<img src="https://github.com/dotOS-Reloaded/manifest/blob/dot-n/dotlogo.png" >
+</br>
+<h1>dotOS Reloaded</h1>
+</br>
+<strong><i> The g'old dotOS Nougat we know - Now with more up to date patches! </i></strong>
+</br>
+<i> As in its name, dotOS Reloaded is an upstreamed version of dotOS Nougat, one of the most customizable Lineage-based Nougat ROMs! </i>
+</br>
+
+Getting started
+---------------
+To get started with Android/dotOS, you'll need to get
+familiar with [Repo](https://source.android.com/source/using-repo.html) and [Version Control with Git](https://source.android.com/source/version-control.html).
+  
+Credits
+-------
+- [**LineageOS**](https://github.com/LineageOS)
+- [**dotOS**](https://github.com/dotOS)
+- [**substratum**](https://github.com/substratum)
+- [**LineageOMS**](https://github.com/LineageOMS)
+*********
+<a href="https://twitter.com/WindowZ414">
+<img src="https://img.shields.io/badge/Developer-Twitter-blue?style=for-the-badge">
+</a>
+
+To initialize your local repository using your trees, use a command like this:  
+```
+repo init --depth=1 -u git://github.com/dotOS-Reloaded/android.git -b cm-14.1
+```
+Then to sync up:
+```
+repo sync
+```
+And to start build:
+```
+. build/envsetup.sh
+lunch dot_<devicecodename>-userdebug
+mka bacon
+```
+
+Brought back to life by Beru Shinsetsu with <3.
+
+*This project is part of [Reloaded ROMs project](https://t.me/Reloaded_ROMs).*

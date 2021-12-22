@@ -1,0 +1,25 @@
+<div align="center">
+<h1>Reloaded ROMs project</h1>
+</br>
+<strong><i> Reloading long-dead ROMs with latest patches from LineageOS! </i></strong>
+</br>
+<i> Developed by <a href="https://t.me/WindowZ414">Beru Shinsetsu</a> with <a href="https://github.com/teos-dev">teos</a> and ❤️. </i>
+</br>
+
+Credits
+-------
+- [**LineageOS**](https://github.com/LineageOS)
+- [**Nick**](https://github.com/nift4)
+- **You <3**
+*********
+<a href="https://twitter.com/WindowZ414">
+<img src="https://img.shields.io/badge/Developer-Twitter-blue?style=for-the-badge">
+</a>
+<a href="https://t.me/Reloaded_ROMs">
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge">
+</a>
+
+ROMs
+----
+- [**LineageOMS Reloaded**](LineageOMS-Reloaded.mkdn)
+- [**dotOS Reloaded**](dotOS-Reloaded.mkdn)
